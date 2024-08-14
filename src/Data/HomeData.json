@@ -1,0 +1,93 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "title": "Risek Insta Powder 20/1100 mg 10 Sachet",
+        "link": "https://djursmoebler.dk/",
+        "description": "Risek Insta Powder contains Omeprazole and Sodium bicarbonate | belongs to Antacid/Proton pump inhibitor",
+        "isFeatured": true,
+        "image": "/home/1.png"
+      },
+      {
+        "id": 2,
+        "title": "Panadol Paracetamol 500mg",
+        "link": "https://www.drugstore2door.com/",
+        "description": "Migraine, Influenza, Fever, Toothache, Sore throat, Headache, Neuralgia, Cold, Backache, Analgesic, Antipyretic, Muscular pain, Rheumatic pain, Period pain,.",
+        "isFeatured": true,
+        "image": "/home/2.png" 
+      },
+      {
+        "id": 3,
+        "title": "CAC-1000 Plus tablet Orange 20’s",
+        "link": "https://www.cleanlinesurf.com/",
+        "description": "Calcium Supplement Products, Medicine & Health. Effects are Diarrhoea. Nausea, flushes, hypotension if IV inj too rapid.",
+        "isFeatured": true,
+        "image": "/home/3.png" 
+      },
+      {
+        "id": 4,
+        "title": "GNC TRIFLEX CapsuleLETS",
+        "link": "https://www.knfilters.com/",
+        "description": "Improves joint comfort & stiffness, Soothes achy joints, promotes mobility & flexibility, Clinical-strength doses of glucosamine.",
+        "isFeatured": true,
+        "image": "/home/4.png"
+      },
+      {
+        "id": 5,
+        "title": "Risek Insta Powder 20/1100 mg 10 Sachet",
+        "link": "https://djursmoebler.dk/",
+        "description": "Risek Insta Powder contains Omeprazole and Sodium bicarbonate | belongs to Antacid/Proton pump inhibitor",
+        "isFeatured": true,
+        "image": "/home/5.png"
+      },
+      {
+        "id": 6,
+        "title": "Panadol Paracetamol 500mg",
+        "link": "https://www.drugstore2door.com/",
+        "description": "Migraine, Influenza, Fever, Toothache, Sore throat, Headache, Neuralgia, Cold, Backache, Analgesic, Antipyretic, Muscular pain, Rheumatic pain, Period pain,.",
+        "isFeatured": true,
+        "image": "/home/6.png" 
+      },
+      {
+        "id": 7,
+        "title": "CAC-1000 Plus tablet Orange 20’s",
+        "link": "https://www.cleanlinesurf.com/",
+        "description": "Calcium Supplement Products, Medicine & Health. Effects are Diarrhoea. Nausea, flushes, hypotension if IV inj too rapid.",
+        "isFeatured": true,
+        "image": "/home/7.png" 
+      },
+      {
+        "id": 8,
+        "title": "GNC TRIFLEX CapsuleLETS",
+        "link": "https://www.knfilters.com/",
+        "description": "Improves joint comfort & stiffness, Soothes achy joints, promotes mobility & flexibility, Clinical-strength doses of glucosamine.",
+        "isFeatured": true,
+        "image": "/home/8.png"
+      },
+      {
+        "id": 9,
+        "title": "Panadol Paracetamol 500mg",
+        "link": "https://www.drugstore2door.com/",
+        "description": "Migraine, Influenza, Fever, Toothache, Sore throat, Headache, Neuralgia, Cold, Backache, Analgesic, Antipyretic, Muscular pain, Rheumatic pain, Period pain,.",
+        "isFeatured": true,
+        "image": "/home/9.png" 
+      },
+      {
+        "id": 10,
+        "title": "CAC-1000 Plus tablet Orange 20’s",
+        "link": "https://www.cleanlinesurf.com/",
+        "description": "Calcium Supplement Products, Medicine & Health. Effects are Diarrhoea. Nausea, flushes, hypotension if IV inj too rapid.",
+        "isFeatured": true,
+        "image": "/home/10.png" 
+      },
+      {
+        "id": 11,
+        "title": "GNC TRIFLEX CapsuleLETS",
+        "link": "https://www.knfilters.com/",
+        "description": "Improves joint comfort & stiffness, Soothes achy joints, promotes mobility & flexibility, Clinical-strength doses of glucosamine.",
+        "isFeatured": true,
+        "image": "/home/11.png"
+      }
+    ]
+  }
+  

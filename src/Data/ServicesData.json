@@ -1,0 +1,101 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "title": "Panadol Woman 10s imported dubai",
+        "link": "https://djursmoebler.dk/",
+        "description": "It contains paracetamol, which has pain-relieving and fever-reducing properties, hyoscine butylbromide.",
+        "isFeatured": true,
+        "image": "/services/1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Risek Insta Powder 20/1100 mg 10 Sachet",
+        "link": "https://www.drugstore2door.com/",
+        "description": "Risek Insta Powder contains Omeprazole and Sodium bicarbonate | belongs to Antacid/Proton pump inhibitor",
+        "isFeatured": true,
+        "image": "/services/2.png" 
+      },
+      {
+        "id": 3,
+        "title": "XANAX 1mg Tablet 30s(Alprazolam)",
+        "link": "https://www.cleanlinesurf.com/",
+        "description": "Drugs used in anxiety and sleep disorders, Medicine & Health, Psychotherapeutic drugs.",
+        "isFeatured": true,
+        "image": "/services/3.png" 
+      },
+      {
+        "id": 4,
+        "title": "Diane 35 tablet 2 mg/35 mcg 21’s",
+        "link": "https://www.knfilters.com/",
+        "description": "Diane 35 tablet contains Cyproterone Acetate and Ethinyloestradiol | belongs to Anti-androgen/Oestrogen",
+        "isFeatured": true,
+        "image": "/services/4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "FLAGYL 500mg|100ml Infusion 100 ml",
+        "link": "https://djursmoebler.dk/",
+        "description": "Anti-infective drugs, Antibiotics systemic, Medicine & Health, Metronidazole. (500mg/100ml | Metronidazole)",
+        "isFeatured": true,
+        "image": "/services/5.png"
+      },
+      {
+        "id": 6,
+        "title": "Deca-Durabolin Injection 25 mg 1 Ampx1 mL",
+        "link": "https://www.drugstore2door.com/",
+        "description": "Deca-Durabolin Injection contains Nandrolone Decanoate | belongs to Anabolic steroid. (Anabolics & hematopoietics)",
+        "isFeatured": true,
+        "image": "/services/6.jpg" 
+      },
+      {
+        "id": 7,
+        "title": "Ortazon Injection IM 1 gm 1 Vial",
+        "link": "https://www.cleanlinesurf.com/",
+        "description": "Ortazon Injection IM contains Ceftriaxone | belongs to Cephalosporin. (Cephalosporin, Medicine & Health)",
+        "isFeatured": true,
+        "image": "/services/7.png" 
+      },
+      {
+        "id": 8,
+        "title": "Panadol Paracetamol 500mg",
+        "link": "https://www.knfilters.com/",
+        "description": "Migraine, Influenza, Fever, Toothache, Sore throat, Headache, Neuralgia, Backache, Analgesic, Antipyretic, Muscular pain.",
+        "isFeatured": true,
+        "image": "/services/8.jpg"
+      },
+      {
+        "id": 9,
+        "title": "NIVAQUINE-P 250mg",
+        "link": "https://djursmoebler.dk/",
+        "description": "One of the following licensed pharmacy from the nearest location will deliver NIVAQUINE-P 250mg.",
+        "isFeatured": true,
+        "image": "/services/9.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Combinol-D Cough syrup 120 mL",
+        "link": "https://www.drugstore2door.com/",
+        "description": "Combinol-D Cough syrup contains | belongs to Acidifier/Antihistamine/Antitussive/Sympathomimetic. (Cough sedatives)",
+        "isFeatured": true,
+        "image": "/services/10.jpg" 
+      },
+      {
+        "id": 11,
+        "title": "Mydriacyl 1.00% Eye Drops 15 ml",
+        "link": "https://www.cleanlinesurf.com/",
+        "description": "Mydriacyl Eye Drops contains Tropicamide, Eye | belongs to Anticholinergic. (Mydriatics Cycloplegics)",
+        "isFeatured": true,
+        "image": "/services/11.png" 
+      },
+      {
+        "id": 12,
+        "title": "Ketamine Injection 500 mg 1 Vialx10 mL",
+        "link": "https://www.knfilters.com/",
+        "description": "Ketamine Injection contains Ketamine | belongs to General anaesthetic. (Anaesthetic, Medicine & Health)",
+        "isFeatured": true,
+        "image": "/services/12.png"
+      }
+    ]
+  }
+  
